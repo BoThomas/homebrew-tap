@@ -1,6 +1,6 @@
 cask "now" do
-  version "2.1.1"
-  sha256 "3630cb2309ee3fb81ed4cd542f4820371c9d51f14c6ab19cff958d02808298f7"
+  version "2.2.0"
+  sha256 "fa2c57c9aaeb371ac61c1b1ed54876d098a554b7453549867c4e21b69406f505"
 
   url "https://github.com/BoThomas/now/releases/download/v#{version}/now-v#{version}.zip"
   name "now"
